@@ -73,3 +73,8 @@ i18n: {
 - [i18n](https://nuxtjs.org/examples/i18n/)
 - [ESLint](https://eslint.org/) + [Prettier](https://prettier.io/)
 - [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+
+
+## Deployed
+
+- [Tutorial](https://www.freecodecamp.org/news/deploy-a-nuxt-app-to-s3-in-5-minutes-515a161eb74f/)
