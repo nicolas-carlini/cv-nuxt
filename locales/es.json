@@ -39,27 +39,36 @@
     "title": "Experiencia Laboral 🔨",
     "works": [
       {
-        "position": "Ingeniero en Informática / Desarrollador FullStack",
-        "companie": "Axum - Soluciones Inteligentes",
+        "position": "DevOps / backend",
+        "companie": "SIMPLICAR",
         "responsabilities": [
-          "Responsable de diseñar, codificar y mantener grupos de aplicaciones usadas en el mundo del retail por empresas multinacionales como Pepsico, Unilever, Quilmes, etc.",
-          "Lider del equipo web, estoy a cargo de la toma de decisiones técnicas y acerca de como el equipo va a trabajar en los diferentes proyectos.",
-          "Desarrollador Backend: .NET Core | .NET Framework | NodeJs | MSSQL | PostgreSQL | MongoDB.",
-          "Desarrollador Frontend: VueJs | ReactJs | Javascript | JQuery.",
-          "Aplicaciones de Escritorio: .NET Windows Form Applications."
+          "Mejora de la infraestructura, automatización de los flujos de desarrollo creando CI/CD, desarrollo en Python sobre Django principalmente implementando integraciones y mejorando la calidad de código."
         ],
-        "startEndDate": "Noviembre 2017 - Presente"
+        "startEndDate": "Septiembre 2020 - Presente"
       },
       {
-        "position": "Administrador Técnico",
-        "companie": "Metalurgica Vezeta",
+        "position": "Programador backend",
+        "companie": "FIZZMOD",
         "responsabilities": [
-          "Responsable del diseño y mantenimiento del ecommerce.",
-          "Diseño Gráfico (Adobe Photoshop and Adobe Illustrator).",
-          "Soporte Técnico.",
-          "Mejora de los procesos de negocio."
+          "Me desempeñe en Nodejs y Mongo en el sistema backoffice Janis 2"
         ],
-        "startEndDate": "Marzo 2014 - Octubre 2017"
+        "startEndDate": "Agosto 2020 - Octubre 2020"
+      },
+      {
+        "position": "Programador backend",
+        "companie": "GOMUSIC",
+        "responsabilities": [
+          "Programé con Nodejs sobre aws lambda haciendo una integración total con movistar España (única en la historia de movistar España)"
+        ],
+        "startEndDate": "Mayo 2020 - Junio 2020"
+      },
+      {
+        "position": "Fullstack",
+        "companie": "FREELANCER",
+        "responsabilities": [
+          "Diseño de paginas web como full stack con Nodejs,Html, Css y Js para diferentes clientes"
+        ],
+        "startEndDate": "enero 2020 - mayo 2020"
       }
     ]
   },
@@ -67,39 +76,77 @@
     "title": "Habilidades 🎯",
     "iconsTitle": "Lenguajes de Programación & Herramientas",
     "devIcons": [
-      "devicon-csharp-plain",
+      "devicon-amazonwebservices-plain-wordmark",
+      "devicon-docker-plain-wordmark",
+      "devicon-nginx-original",
+      "devicon-heroku-plain-wordmark",
+      "devicon-python-plain",
+      "devicon-redis-plain-wordmark",
+      "devicon-sequelize-plain",
+      "devicon-windows8-original",
+      "devicon-java-plain-wordmark",
+      "devicon-mongodb-plain-wordmark",
+      "devicon-mysql-plain-wordmark",
+      "devicon-php-plain",
+      "devicon-npm-original-wordmark",
+      "devicon-typescript-plain",
+      "devicon-go-plain",
       "devicon-javascript-plain",
       "devicon-html5-plain-wordmark",
       "devicon-css3-plain-wordmark",
       "devicon-git-plain",
       "devicon-nodejs-plain",
-      "devicon-bootstrap-plain",
       "devicon-github-original",
       "devicon-bitbucket-original-wordmark",
-      "devicon-dot-net-original-wordmark",
-      "devicon-jquery-plain-wordmark",
       "devicon-linux-plain",
-      "devicon-windows8-original",
-      "devicon-illustrator-plain",
-      "devicon-photoshop-plain",
-      "devicon-react-original",
       "devicon-visualstudio-plain",
-      "devicon-dot-net-plain",
-      "devicon-vuejs-plain",
       "devicon-postgresql-plain"
     ],
     "workflow": "Workflow",
     "itemList": [
-      "Diseño Responsive & UX",
-      "Cross Browser Testing & Debugging",
-      "Contrucción de REST API",
-      "Desarrollo Ágil & Scrum",
-      "Trabajo en equipo",
-      "Patrones de diseño"
+      "AWS",
+      "Google Cloud",
+      "Kubernetes",
+      "Docker",
+      "Rancher",
+      "Cloudflare",
+      "Linux",
+      "Nginx",
+      "Versel",
+      "Netlify",
+      "Heroku",
+      "Jira",
+      "Scrum",
+      "Kandan",
+      "npm",
+      "Git",
+      "Github",
+      "Bitbucket",
+      "Python",
+      "NodeJS",
+      "PHP",
+      "Go",
+      "Java",
+      "Flask",
+      "fastapi",
+      "Django",
+      "Gorm",
+      "Fiber",
+      "Express",
+      "Serverless",
+      "Sequelize",
+      "Arquitectura por capas",
+      "Arquitectura orientada a eventos",
+      "Api REST",
+      "Microservicios",
+      "mongoDB",
+      "MySql",
+      "Sqlite3",
+      "Postgres"
     ]
   },
   "interests": {
-    "title": "Pasatiempos",
+    "title": "Pasatiempos 😄",
     "firstBlock": "Me gusta jugar un juego con buena histora, ver series y escucha musica relajante.",
     "secondBlock": "Tambien uso mi tiempo libre para perfeccionarme como devops y arquitecto de software."
   },
@@ -108,15 +155,15 @@
     "projectsInfo": [
       {
         "name": "Crypto currency bot",
-        "description": "Kelawar es un proyecto Big Data + IoT. El cual mediante mecanismos de recolección masiva de datos, brindamos información útil acerca del comportamiento de los clientes para mejorar la toma de decisiones.",
-        "image": "/images/kelawar.jpg",
-        "siteUrl": "https://kelawar.com/"
+        "description": "Simple bot de orden de precios de crypto currencys.",
+        "image": "/images/crypto.png",
+        "siteUrl": "https://github.com/nicolas-carlini/py-tl-btc"
       },
       {
         "name": "Neptune DDD",
-        "description": "Docuisy es un creador de Wikis basadas en archivos .md",
-        "image": "/images/docuisy.png",
-        "siteUrl": "https://github.com/ivangreve/docuisy"
+        "description": "Es un microframework para implementar arquitectura hegonal de forma dinamica y facil.",
+        "image": "/images/NMF.png",
+        "siteUrl": "https://github.com/NeptuneMF/NMF"
       }
     ]
   }
