@@ -78,3 +78,4 @@ i18n: {
 ## Deployed
 
 - [Tutorial](https://www.freecodecamp.org/news/deploy-a-nuxt-app-to-s3-in-5-minutes-515a161eb74f/)
+
