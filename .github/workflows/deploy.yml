@@ -20,6 +20,8 @@ jobs:
         path: ~/.npm
         key: npm-${{ hashFiles('package-lock.json') }}
         restore-keys: npm-
+    - name: Install dependencies
+      run: npm i
     - name: Generate Dist
       run: npm run generate
     - uses: jakejarvis/s3-sync-action@master
