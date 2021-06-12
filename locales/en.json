@@ -8,8 +8,8 @@
     "projects": "Projects"
   },
   "personalInfo": {
-    "name": "Iván",
-    "lastName": "Greve",
+    "name": "Nicolas A.",
+    "lastName": "Carlini",
     "subHeadingText": [
       "Software Enginneer",
       "Full Stack Developer",
@@ -28,19 +28,25 @@
       {
         "collage": "University of La Matanza",
         "name": "Engineer Degree",
-        "itemList": ["Computer Science"],
+        "itemList": [
+          "Computer Science"
+        ],
         "startEndDate": "March 2013 - December 2018"
       },
       {
         "collage": "University of La Matanza",
         "name": "Software Engineering Technician",
-        "itemList": ["Computer Science"],
+        "itemList": [
+          "Computer Science"
+        ],
         "startEndDate": "March 2013 - December 2016"
       },
       {
         "collage": "Instituto Madero",
         "name": "Electronic technician",
-        "itemList": ["Electronic"],
+        "itemList": [
+          "Electronic"
+        ],
         "startEndDate": "March 2007 - December 2012"
       }
     ]
