@@ -84,3 +84,5 @@ i18n: {
 	upload images of personal project
 
 	improve en.json
+
+	make fabicon
