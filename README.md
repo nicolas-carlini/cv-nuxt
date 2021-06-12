@@ -81,3 +81,6 @@ i18n: {
 
 ## TODO:	
 	Reformat skils in lang es.json and finish proyects sector
+	upload images of personal project
+
+	improve en.json
