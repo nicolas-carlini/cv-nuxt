@@ -8,46 +8,30 @@
     "projects": "Proyectos"
   },
   "personalInfo": {
-    "name": "Nicolas",
+    "name": "Nicolas A.",
     "lastName": "Carlini",
     "subHeadingText": [
       "Software Enginneer",
-      "Full Stack Developer",
+      "DevOps Culture",
       "Amante del Codigo!"
     ],
     "city": "Buenos Aires, Argentina",
-    "phoneNumber": "+54 - 6766-9851",
-    "email": "ivangreve@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/ivan-greve/",
-    "github": "https://github.com/ivangreve/",
-    "myDescription": "Desarrollador web apasionado, desarrollando aplicaciones útiles siempre utilizando las últimas tecnologías!"
+    "phoneNumber": "+54 - 1157277544",
+    "email": "nicolascarlini1@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nicolas-carlini-17b88018a/",
+    "github": "https://github.com/nicolas-carlini",
+    "myDescription": "Desarrollador backend y Devops, me gusta comprometerme con los proyectos y participar de forma activa en su analisis."
   },
   "educationDegrees": {
     "title": "Educación 📕",
     "degrees": [
       {
-        "collage": "Universidad de La Matanza",
-        "name": "Ingeniero en Informática",
+        "collage": "EEST 7 avellaneda",
+        "name": "Tecnico en Programación",
         "itemList": [
-          "Ciencias de la Computación"
+          "Tecnicatura en programación"
         ],
-        "startEndDate": "Marzo 2013 - Diciembre 2018"
-      },
-      {
-        "collage": "Universidad de La Matanza",
-        "name": "Técnico universitario en Desarrollo de Software",
-        "itemList": [
-          "Ciencias de la Computación"
-        ],
-        "startEndDate": "Marzo 2013 - Diciembre 2016"
-      },
-      {
-        "collage": "Instituto Madero",
-        "name": "Técnico en electrónica - Telecomunicaciones",
-        "itemList": [
-          "Electrónica"
-        ],
-        "startEndDate": "Marzo 2007 - Diciembre 2012"
+        "startEndDate": "Marzo 2013 - Abril 2021"
       }
     ]
   },
@@ -115,36 +99,24 @@
     ]
   },
   "interests": {
-    "title": "Hobbies 😄",
-    "firstBlock": "Además de ser desarrollador web, disfruto la gran parte de mi tiempo escuchando y tocando música. Me encanta cantar y tocar el piano en mis ratos libres!. 🎹🎵",
-    "secondBlock": "También le dedico una gran parte de mi tiempo libre a explorar las última tecnologias y avances en el mundo del backend/frontend, y programo en mis proyectos personales! 🙌👨‍💻"
+    "title": "Pasatiempos",
+    "firstBlock": "Me gusta jugar un juego con buena histora, ver series y escucha musica relajante.",
+    "secondBlock": "Tambien uso mi tiempo libre para perfeccionarme como devops y arquitecto de software."
   },
   "projects": {
     "title": "Proyectos Personales 🦾🧠",
     "projectsInfo": [
       {
-        "name": "Kelawar",
+        "name": "Crypto currency bot",
         "description": "Kelawar es un proyecto Big Data + IoT. El cual mediante mecanismos de recolección masiva de datos, brindamos información útil acerca del comportamiento de los clientes para mejorar la toma de decisiones.",
         "image": "/images/kelawar.jpg",
         "siteUrl": "https://kelawar.com/"
       },
       {
-        "name": "Docuisy",
+        "name": "Neptune DDD",
         "description": "Docuisy es un creador de Wikis basadas en archivos .md",
         "image": "/images/docuisy.png",
         "siteUrl": "https://github.com/ivangreve/docuisy"
-      },
-      {
-        "name": "Better Drive",
-        "description": "Better Drive es una herramienta gratuita para analizar su cuenta de Google Drive. Google Drive es un poderoso servicio de almacenamiento y sincronización de archivos, pero a veces usted puede sentir que pierde el control de estos. Teniendo en cuenta las preocupaciones de privacidad que tienen muchos usuarios, creamos esta gran herramienta para ayudarlo a organizar, limpiar y aprovechar el uso de su Google Drive.",
-        "image": "/images/better-drive.png",
-        "siteUrl": "https://betterdrive.app/"
-      },
-      {
-        "name": "Resume Nuxt Template",
-        "description": "Simple y customizable template hecho con Nuxt y con soporte multilenguaje (i18n)",
-        "image": "/images/resumenuxt.jpg",
-        "siteUrl": "https://github.com/ivangreve/nuxt-resume"
       }
     ]
   }

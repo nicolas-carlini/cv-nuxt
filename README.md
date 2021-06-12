@@ -79,3 +79,5 @@ i18n: {
 
 - [Tutorial](https://www.freecodecamp.org/news/deploy-a-nuxt-app-to-s3-in-5-minutes-515a161eb74f/)
 
+## TODO:	
+	Reformat skils in lang es.json and finish proyects sector
