@@ -114,11 +114,11 @@ export default {
   ],
   i18n: {
     locales: ["es"],
-    defaultLocale: "en",
+    defaultLocale: "es",
     vueI18n: {
-      fallbackLocale: "en",
+      fallbackLocale: "es",
       messages: {
-        en: require("./locales/en.json"),
+        //en: require("./locales/en.json"),
         es: require("./locales/es.json")
       }
     }
