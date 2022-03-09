@@ -39,12 +39,20 @@
     "title": "Experiencia Laboral 🔨",
     "works": [
       {
+        "position": "TechOps Specialist",
+        "companie": "Uala",
+        "responsabilities": [
+          "Construir ambientes de kubernetes productivos para llevar a cabo una migracion desde onpremise a cloud con k8s y el stack de aws, implementar la cultura DevOps y mejorar la calidad de vida de los devs."
+        ],
+        "startEndDate": "noviembre 2021 - Presente"
+      },
+      {
         "position": "DevOps Specialist",
         "companie": "Balanz",
         "responsabilities": [
           "Construir ambientes de kubernetes productivos para llevar a cabo una migracion desde onpremise a cloud con k8s y el stack de aws, implementar la cultura DevOps y mejorar la calidad de vida de los devs."
         ],
-        "startEndDate": "Julio 2021 - Presente"
+        "startEndDate": "Julio 2021 - noviembre 2021"
       },
       {
         "position": "DevOps / backend",
