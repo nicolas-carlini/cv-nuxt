@@ -16,38 +16,22 @@
       "Code enthusiast!"
     ],
     "city": "Buenos Aires, Argentina",
-    "phoneNumber": "+54 - 6766-9851",
-    "email": "ivangreve@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/ivan-greve/",
-    "github": "https://github.com/ivangreve/",
-    "myDescription": "Passionate web developer, making useful application using the latest technologies!"
+    "phoneNumber": "+54 - 1157277544",
+    "email": "nicolascarlini1@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nicolas-carlini-17b88018a/",
+    "github": "https://github.com/nicolas-carlini",
+    "myDescription": "Passionate DevOps and backend developer, making useful application using the latest technologies!"
   },
   "educationDegrees": {
     "title": "Education 📕",
     "degrees": [
       {
-        "collage": "University of La Matanza",
-        "name": "Engineer Degree",
+        "collage": "EEST 7 avellaneda",
+        "name": "Programming technician",
         "itemList": [
-          "Computer Science"
+          "Tecnicatura en programación"
         ],
-        "startEndDate": "March 2013 - December 2018"
-      },
-      {
-        "collage": "University of La Matanza",
-        "name": "Software Engineering Technician",
-        "itemList": [
-          "Computer Science"
-        ],
-        "startEndDate": "March 2013 - December 2016"
-      },
-      {
-        "collage": "Instituto Madero",
-        "name": "Electronic technician",
-        "itemList": [
-          "Electronic"
-        ],
-        "startEndDate": "March 2007 - December 2012"
+        "startEndDate": "Marzo 2013 - Abril 2021"
       }
     ]
   },
@@ -55,27 +39,52 @@
     "title": "Work Expecience 🔨",
     "works": [
       {
-        "position": "Software Engineer / FullStack Developer",
-        "companie": "Axum - Smart Solutions",
+        "position": "TechOps Specialist",
+        "companie": "Uala",
         "responsabilities": [
-          "Responsible for designing, developing and maintaining a group of applications used in the retail industry by multinational companies as Pepsico, Unilever, Quilmes, etc.",
-          "Web Team leader, I take technical decisions about which technologies use in each project and how the team will works.",
-          "Backend Developer: .NET Core | .NET Framework | NodeJs | MSSQL | PostgreSQL | MongoDB.",
-          "Frontend Developer: VueJs | ReactJs | Javascript | JQuery.",
-          "Desktop Applications: .NET Windows Form Applications."
+          "Automatize task oriented to ticket resolution with lambda, terraform y aws tools."
         ],
-        "startEndDate": "November 2017 - Present"
+        "startEndDate": "nov 2021 - Now"
       },
       {
-        "position": "Technical Administrator",
-        "companie": "Metalurgica Vezeta",
+        "position": "DevOps Specialist",
+        "companie": "Balanz",
         "responsabilities": [
-          "Responsible for web ecommerce designing and maintaining.",
-          "Graphic design (Adobe Photoshop and Adobe Illustrator).",
-          "Technical support.",
-          "Improve business processes."
+          "Make kubernetes ambient for migrate from ompromise to cloud."
         ],
-        "startEndDate": "March 2014 - October 2017"
+        "startEndDate": "July 2021 - nov 2021"
+      },
+      {
+        "position": "DevOps / backend",
+        "companie": "SIMPLICAR",
+        "responsabilities": [
+          "Improve the infra, make cicd, develop in python with django framework and improve de code quality."
+        ],
+        "startEndDate": "Sept 2020 - July 2021"
+      },
+      {
+        "position": "Programador backend",
+        "companie": "FIZZMOD",
+        "responsabilities": [
+          "developing in Nodejs y Mongo for backoffice Janis 2"
+        ],
+        "startEndDate": "August 2020 - Octuber 2020"
+      },
+      {
+        "position": "Programador backend",
+        "companie": "GOMUSIC",
+        "responsabilities": [
+          "Proggraming in nodejs over lambda for integration with movistar spain."
+        ],
+        "startEndDate": "May 2020 - June 2020"
+      },
+      {
+        "position": "Fullstack",
+        "companie": "FREELANCER",
+        "responsabilities": [
+          "Design web like a full stack with nodejs, html, css and js."
+        ],
+        "startEndDate": "Jaunary 2020 - may 2020"
       }
     ]
   },
@@ -83,68 +92,94 @@
     "title": "Skills 🎯",
     "iconsTitle": "Programming Languages & Tools",
     "devIcons": [
-      "devicon-csharp-plain",
+      "devicon-amazonwebservices-plain-wordmark",
+      "devicon-docker-plain-wordmark",
+      "devicon-nginx-original",
+      "devicon-heroku-plain-wordmark",
+      "devicon-python-plain",
+      "devicon-redis-plain-wordmark",
+      "devicon-sequelize-plain",
+      "devicon-windows8-original",
+      "devicon-java-plain-wordmark",
+      "devicon-mongodb-plain-wordmark",
+      "devicon-mysql-plain-wordmark",
+      "devicon-php-plain",
+      "devicon-npm-original-wordmark",
+      "devicon-typescript-plain",
+      "devicon-go-plain",
       "devicon-javascript-plain",
       "devicon-html5-plain-wordmark",
       "devicon-css3-plain-wordmark",
       "devicon-git-plain",
       "devicon-nodejs-plain",
-      "devicon-bootstrap-plain",
       "devicon-github-original",
       "devicon-bitbucket-original-wordmark",
-      "devicon-dot-net-original-wordmark",
-      "devicon-jquery-plain-wordmark",
       "devicon-linux-plain",
-      "devicon-windows8-original",
-      "devicon-illustrator-plain",
-      "devicon-photoshop-plain",
-      "devicon-react-original",
       "devicon-visualstudio-plain",
-      "devicon-dot-net-plain",
-      "devicon-vuejs-plain",
       "devicon-postgresql-plain"
     ],
     "workflow": "Workflow",
     "itemList": [
-      "Responsive Design & UX",
-      "Cross Browser Testing & Debugging",
-      "REST API building",
-      "Agile Development & Scrum",
-      "Team working",
-      "Design Patterns"
+      "AWS",
+      "Google Cloud",
+      "Kubernetes",
+      "Docker",
+      "Rancher",
+      "Cloudflare",
+      "Linux",
+      "Nginx",
+      "Versel",
+      "Netlify",
+      "Heroku",
+      "Jira",
+      "Scrum",
+      "Kandan",
+      "npm",
+      "Git",
+      "Github",
+      "Bitbucket",
+      "Python",
+      "NodeJS",
+      "PHP",
+      "Go",
+      "Java",
+      "Flask",
+      "fastapi",
+      "Django",
+      "Gorm",
+      "Fiber",
+      "Express",
+      "Serverless",
+      "Sequelize",
+      "Arquitectura por capas",
+      "Arquitectura orientada a eventos",
+      "Api REST",
+      "Microservicios",
+      "mongoDB",
+      "MySql",
+      "Sqlite3",
+      "Postgres"
     ]
   },
   "interests": {
     "title": "Hobbies 😄",
-    "firstBlock": "Apart from being a web developer, I enjoy most of my time listening and playing music. I love playing piano and singing in my spare time!. 🎹🎵",
-    "secondBlock": "I spend a large amount of my free time exploring the latest technolgy advancements in the frontend and backend web technology development world and coding in my personal projects! 🙌👨‍💻"
+    "firstBlock": "I like play games like Gears 5 or doom in generaly",
+    "secondBlock": "I spend a large amount of my free time exploring the latest technolgy advancements in the DevOps technology development world and coding in my personal projects! 🙌👨‍💻"
   },
   "projects": {
     "title": "Personal Projects 🦾🧠",
     "projectsInfo": [
       {
-        "name": "Kelawar",
-        "description": "Kelawar is a Big Data + IoT project. Which through masive recollections of data, we provide useful information about the clients behavior. ",
-        "image": "/images/kelawar.jpg",
-        "siteUrl": "https://kelawar.com/"
+        "name": "Crypto currency bot",
+        "description": "Simple bot to order price of crypto currencys.",
+        "image": "/images/crypto.png",
+        "siteUrl": "https://github.com/nicolas-carlini/py-tl-btc"
       },
       {
-        "name": "Docuisy",
-        "description": "Docuisy is a Wiki, generator based on .md files",
-        "image": "/images/docuisy.png",
-        "siteUrl": "https://github.com/ivangreve/docuisy"
-      },
-      {
-        "name": "Better Drive",
-        "description": "Better Drive is a free tool to analyze your Google Drive account. Google Drive is a powerful file storage and synchronization service, but sometimes you feel like you lose control of it. Keeping privacy concerns in mind, that many users have, we built this great tool to help you organize, clean, and leverage the use of your Google Drive.",
-        "image": "/images/better-drive.png",
-        "siteUrl": "https://betterdrive.app/"
-      },
-      {
-        "name": "Resume Nuxt Template",
-        "description": "I made a simple and customizable template with nuxt and multilanguage support (i18n)",
-        "image": "/images/resumenuxt.jpg",
-        "siteUrl": "https://github.com/ivangreve/nuxt-resume"
+        "name": "Neptune DDD",
+        "description": "Mini framework for DDD.",
+        "image": "/images/NMF.png",
+        "siteUrl": "https://github.com/NeptuneMF/NMF"
       }
     ]
   }
