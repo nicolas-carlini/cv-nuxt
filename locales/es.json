@@ -39,12 +39,28 @@
     "title": "Experiencia Laboral 🔨",
     "works": [
       {
+        "position": "Devops Tech Reference",
+        "companie": "Simpli",
+        "responsabilities": [
+          "Crear el sistema de alarmas desde 0, mejorar los procesos de devops, crear el sistema de uso de terraform y levantar kubernetes sobre eks."
+        ],
+        "startEndDate": "abril 2022 - actualidad"
+      },
+      {
+        "position": "Devops",
+        "companie": "CryptoAvisos.com",
+        "responsabilities": [
+          "Migrar el sitio a aws, dockerizar la aplicacion, construir las pipelines y orquestar el trabajo sobre aws lambda."
+        ],
+        "startEndDate": "abril 2022 - actualidad"
+      },
+      {
         "position": "TechOps Specialist",
         "companie": "Uala",
         "responsabilities": [
           "Construir ambientes de kubernetes productivos para llevar a cabo una migracion desde onpremise a cloud con k8s y el stack de aws, implementar la cultura DevOps y mejorar la calidad de vida de los devs."
         ],
-        "startEndDate": "noviembre 2021 - Presente"
+        "startEndDate": "noviembre 2021 - abril 2022"
       },
       {
         "position": "DevOps Specialist",

@@ -39,12 +39,28 @@
     "title": "Work Expecience 🔨",
     "works": [
       {
+        "position": "Devops Tech Reference",
+        "companie": "Simpli",
+        "responsabilities": [
+          "Create the alarm system from scratch, improve the all process of devops area, improve terraform and up kubernetes."
+        ],
+        "startEndDate": "abr 2022 - Now"
+      },
+      {
+        "position": "Devops",
+        "companie": "CryptoAvisos.com",
+        "responsabilities": [
+          "Migrate de site to aws and dockerize the application, build the pipelines and organize the work over aws lambda."
+        ],
+        "startEndDate": "abr 2022 - Now"
+      },
+      {
         "position": "TechOps Specialist",
         "companie": "Uala",
         "responsabilities": [
           "Automatize task oriented to ticket resolution with lambda, terraform y aws tools."
         ],
-        "startEndDate": "nov 2021 - Now"
+        "startEndDate": "nov 2021 - abr - 2022"
       },
       {
         "position": "DevOps Specialist",
